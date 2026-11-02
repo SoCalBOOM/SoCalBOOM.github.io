@@ -21,7 +21,7 @@ format:
 ::::
 
 <div class="registration-form-link">
-[Open the registration and abstract form](https://docs.google.com/forms/d/1dtzYnySbiBodRr7eGd7j7YmSnmkKvqxb0JqRscCwvnA/edit){.btn .btn-primary target="_blank"}
+[Open the registration and abstract form](https://docs.google.com/forms/d/e/1FAIpQLSdtN6IL-0LREA2cTO5Ct-csyj7vk-qJBDnSKj1seVT0DfSHlA/viewform){.btn .btn-primary target="_blank"}
 
 [Read the frequently asked questions](faqs.qmd)
 </div>
